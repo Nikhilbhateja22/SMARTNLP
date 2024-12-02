@@ -1,0 +1,4 @@
+Flask==2.2.3
+transformers==4.33.3
+torch==2.0.1
+pymongo==4.5.0
